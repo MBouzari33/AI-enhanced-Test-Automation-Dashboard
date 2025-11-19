@@ -27,6 +27,8 @@ This project demonstrates how traditional UI testing can be enhanced with AI and
   /SeleniumTests      → WebDriver scripts
 /docker
   docker-compose.yml  → PostgreSQL setup
+
+  
 🗃️ Database Entities
 
 TestCase — Stores test definitions
@@ -79,3 +81,4 @@ Optional Blazor dashboard
 📄 License
 
 MIT
+
